@@ -3,4 +3,5 @@ annotation
 data
 outputs
 venv
+checkpoints
 
